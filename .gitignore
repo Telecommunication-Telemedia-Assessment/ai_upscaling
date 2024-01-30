@@ -1,0 +1,5 @@
+upscaling.tar.xz
+upscaling_detection_models.tar.xz
+upscaling
+upscaling_detection/models
+*.ipynb_checkpoints/

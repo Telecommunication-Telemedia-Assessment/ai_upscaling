@@ -1,0 +1,1 @@
+run `split_all.sh` to create the training dataset

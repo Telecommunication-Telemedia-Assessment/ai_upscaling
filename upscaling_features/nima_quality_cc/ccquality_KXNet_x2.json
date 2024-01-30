@@ -1,0 +1,546 @@
+[
+  {
+    "image_id": "IMG-20170508-WA0004_",
+    "mean_score_prediction": 4.1413500383496284
+  },
+  {
+    "image_id": "IMG_5936_",
+    "mean_score_prediction": 3.9202528819441795
+  },
+  {
+    "image_id": "IMG_20200816_124118257_HDR_",
+    "mean_score_prediction": 3.4414639584720135
+  },
+  {
+    "image_id": "IMG_4889_",
+    "mean_score_prediction": 3.728173453360796
+  },
+  {
+    "image_id": "IMG_7187_",
+    "mean_score_prediction": 4.620463132858276
+  },
+  {
+    "image_id": "IMG_0651_",
+    "mean_score_prediction": 3.6786381974816322
+  },
+  {
+    "image_id": "IMG_8736_",
+    "mean_score_prediction": 4.865563981235027
+  },
+  {
+    "image_id": "IMG_7450_",
+    "mean_score_prediction": 4.819465972483158
+  },
+  {
+    "image_id": "02_IMG_0278_",
+    "mean_score_prediction": 3.513310182839632
+  },
+  {
+    "image_id": "IMG_8890_",
+    "mean_score_prediction": 4.211545683443546
+  },
+  {
+    "image_id": "IMG_20190831_145604539_",
+    "mean_score_prediction": 3.457231666892767
+  },
+  {
+    "image_id": "IMG_20191031_173218684_",
+    "mean_score_prediction": 3.629971593618393
+  },
+  {
+    "image_id": "blume_",
+    "mean_score_prediction": 3.548459507524967
+  },
+  {
+    "image_id": "IMG_20190505_194506274_HDR-EFFECTS_",
+    "mean_score_prediction": 3.1725789196789265
+  },
+  {
+    "image_id": "IMG_7753_",
+    "mean_score_prediction": 4.931662425398827
+  },
+  {
+    "image_id": "IMG_5484_",
+    "mean_score_prediction": 4.363008037209511
+  },
+  {
+    "image_id": "IMG_8098_",
+    "mean_score_prediction": 3.4942010901868343
+  },
+  {
+    "image_id": "IMG_20180224_212247556_",
+    "mean_score_prediction": 3.5528540275990963
+  },
+  {
+    "image_id": "01_IMG_9996_",
+    "mean_score_prediction": 3.969631914049387
+  },
+  {
+    "image_id": "IMG_7595_",
+    "mean_score_prediction": 4.201300047338009
+  },
+  {
+    "image_id": "IMG_20191130_144510482_",
+    "mean_score_prediction": 4.48663092404604
+  },
+  {
+    "image_id": "IMG_7640_",
+    "mean_score_prediction": 4.062748569995165
+  },
+  {
+    "image_id": "IMG_5003_",
+    "mean_score_prediction": 4.765612840652466
+  },
+  {
+    "image_id": "MG_9215_",
+    "mean_score_prediction": 4.861909501254559
+  },
+  {
+    "image_id": "IMG_20200819_124547156_BURST000_COVER_TOP_",
+    "mean_score_prediction": 4.632401041686535
+  },
+  {
+    "image_id": "IMG_5971_",
+    "mean_score_prediction": 4.364707931876183
+  },
+  {
+    "image_id": "IMG_20191210_094007177_",
+    "mean_score_prediction": 4.352794889360666
+  },
+  {
+    "image_id": "IMG_5099_",
+    "mean_score_prediction": 4.233955468982458
+  },
+  {
+    "image_id": "IMG_5541_",
+    "mean_score_prediction": 3.857020493596792
+  },
+  {
+    "image_id": "IMG_5452_",
+    "mean_score_prediction": 3.9719881005585194
+  },
+  {
+    "image_id": "IMG_7893_",
+    "mean_score_prediction": 4.508715722709894
+  },
+  {
+    "image_id": "IMG_20190531_214259013_",
+    "mean_score_prediction": 3.724907986819744
+  },
+  {
+    "image_id": "IMG_6909_",
+    "mean_score_prediction": 5.221235767006874
+  },
+  {
+    "image_id": "IMG_1665_",
+    "mean_score_prediction": 4.413539044559002
+  },
+  {
+    "image_id": "IMG_5391_",
+    "mean_score_prediction": 3.308097554370761
+  },
+  {
+    "image_id": "IMG_20190901_161832305_",
+    "mean_score_prediction": 4.532012276351452
+  },
+  {
+    "image_id": "IMG_20190604_212833103_",
+    "mean_score_prediction": 3.1302016153931618
+  },
+  {
+    "image_id": "IMG_6222_",
+    "mean_score_prediction": 3.2734312135726213
+  },
+  {
+    "image_id": "IMG_8868_",
+    "mean_score_prediction": 4.24249029904604
+  },
+  {
+    "image_id": "IMG_5334_",
+    "mean_score_prediction": 4.23734699934721
+  },
+  {
+    "image_id": "IMG_5359_",
+    "mean_score_prediction": 3.8758846670389175
+  },
+  {
+    "image_id": "IMG_6258__",
+    "mean_score_prediction": 3.4626973271369934
+  },
+  {
+    "image_id": "IMG_5656_",
+    "mean_score_prediction": 4.464763127267361
+  },
+  {
+    "image_id": "IMG_9671_",
+    "mean_score_prediction": 3.582858793437481
+  },
+  {
+    "image_id": "IMG_6010_",
+    "mean_score_prediction": 3.0517436265945435
+  },
+  {
+    "image_id": "IMG_5567_",
+    "mean_score_prediction": 4.55405105650425
+  },
+  {
+    "image_id": "IMG_20190517_142525721-EFFECTS_",
+    "mean_score_prediction": 4.653596378862858
+  },
+  {
+    "image_id": "IMG_9401_",
+    "mean_score_prediction": 4.043918337672949
+  },
+  {
+    "image_id": "MG_9035_",
+    "mean_score_prediction": 5.465076453983784
+  },
+  {
+    "image_id": "IMG_6215_california_",
+    "mean_score_prediction": 3.896275345236063
+  },
+  {
+    "image_id": "IMG_5128_",
+    "mean_score_prediction": 4.998156540095806
+  },
+  {
+    "image_id": "IMG_8948_",
+    "mean_score_prediction": 4.632710248231888
+  },
+  {
+    "image_id": "01_IMG_9943_",
+    "mean_score_prediction": 5.246619917452335
+  },
+  {
+    "image_id": "IMG_5283_",
+    "mean_score_prediction": 4.824023574590683
+  },
+  {
+    "image_id": "02_IMG_0047_",
+    "mean_score_prediction": 4.0012506656348705
+  },
+  {
+    "image_id": "IMG_7057_",
+    "mean_score_prediction": 4.321604695171118
+  },
+  {
+    "image_id": "IMG_7455_",
+    "mean_score_prediction": 4.985373921692371
+  },
+  {
+    "image_id": "IMG_6945_",
+    "mean_score_prediction": 5.734795577824116
+  },
+  {
+    "image_id": "IMG_6426_",
+    "mean_score_prediction": 4.322300113737583
+  },
+  {
+    "image_id": "IMG_9326_",
+    "mean_score_prediction": 5.015275105834007
+  },
+  {
+    "image_id": "IMG_4537_",
+    "mean_score_prediction": 3.8896267749369144
+  },
+  {
+    "image_id": "01_IMG_9988_",
+    "mean_score_prediction": 4.978110484778881
+  },
+  {
+    "image_id": "IMG_6255__",
+    "mean_score_prediction": 3.546761941164732
+  },
+  {
+    "image_id": "IMG_5549_",
+    "mean_score_prediction": 5.116250559687614
+  },
+  {
+    "image_id": "IMG_9065_",
+    "mean_score_prediction": 3.629963632673025
+  },
+  {
+    "image_id": "IMG_20201127_182815_",
+    "mean_score_prediction": 3.3866941314190626
+  },
+  {
+    "image_id": "IMG_7663_",
+    "mean_score_prediction": 5.755451150238514
+  },
+  {
+    "image_id": "IMG_4248_",
+    "mean_score_prediction": 4.8949281722307205
+  },
+  {
+    "image_id": "IMG_5045_",
+    "mean_score_prediction": 4.124322786927223
+  },
+  {
+    "image_id": "IMG_9320_",
+    "mean_score_prediction": 4.403103686869144
+  },
+  {
+    "image_id": "IMG-20170508-WA0005_",
+    "mean_score_prediction": 3.5339625366032124
+  },
+  {
+    "image_id": "IMG_6790_",
+    "mean_score_prediction": 4.281312026083469
+  },
+  {
+    "image_id": "IMG_7392__",
+    "mean_score_prediction": 4.749446414411068
+  },
+  {
+    "image_id": "IMG_20200906_194627870_",
+    "mean_score_prediction": 3.451841112226248
+  },
+  {
+    "image_id": "IMG_4436_",
+    "mean_score_prediction": 4.1937238574028015
+  },
+  {
+    "image_id": "IMG_7955_",
+    "mean_score_prediction": 4.593090921640396
+  },
+  {
+    "image_id": "IMG_5984_",
+    "mean_score_prediction": 4.459487438201904
+  },
+  {
+    "image_id": "IMG_8968_",
+    "mean_score_prediction": 5.291460692882538
+  },
+  {
+    "image_id": "IMG_6457_",
+    "mean_score_prediction": 3.917205609381199
+  },
+  {
+    "image_id": "IMG_4110_",
+    "mean_score_prediction": 3.6769206821918488
+  },
+  {
+    "image_id": "IMG_4140_",
+    "mean_score_prediction": 4.64539160579443
+  },
+  {
+    "image_id": "IMG_5792_",
+    "mean_score_prediction": 4.26691460236907
+  },
+  {
+    "image_id": "IMG_6177_golden_2_",
+    "mean_score_prediction": 4.62378878518939
+  },
+  {
+    "image_id": "IMG_3995_",
+    "mean_score_prediction": 5.055126562714577
+  },
+  {
+    "image_id": "IMG_5982_",
+    "mean_score_prediction": 3.112001247704029
+  },
+  {
+    "image_id": "IMG_5127_",
+    "mean_score_prediction": 3.7583985961973667
+  },
+  {
+    "image_id": "IMG_7758_",
+    "mean_score_prediction": 3.766231209039688
+  },
+  {
+    "image_id": "IMG_8740_",
+    "mean_score_prediction": 4.585903398692608
+  },
+  {
+    "image_id": "IMG_20180118_122557411_",
+    "mean_score_prediction": 3.113688813522458
+  },
+  {
+    "image_id": "MG_9163_",
+    "mean_score_prediction": 3.2087943740189075
+  },
+  {
+    "image_id": "IMG_6454_",
+    "mean_score_prediction": 4.030376918613911
+  },
+  {
+    "image_id": "IMG_20170907_182814017_",
+    "mean_score_prediction": 3.991065625101328
+  },
+  {
+    "image_id": "IMG_5188_",
+    "mean_score_prediction": 4.485441453754902
+  },
+  {
+    "image_id": "IMG_5971__",
+    "mean_score_prediction": 5.057777121663094
+  },
+  {
+    "image_id": "IMG_4480_",
+    "mean_score_prediction": 5.4141668528318405
+  },
+  {
+    "image_id": "IMG_20191101_115229045_",
+    "mean_score_prediction": 2.866954043507576
+  },
+  {
+    "image_id": "IMG_6837_",
+    "mean_score_prediction": 5.129015654325485
+  },
+  {
+    "image_id": "IMG_20191130_131452287_HDR_",
+    "mean_score_prediction": 3.1336397267878056
+  },
+  {
+    "image_id": "IMG_5050_",
+    "mean_score_prediction": 4.177168384194374
+  },
+  {
+    "image_id": "OUT_8905_",
+    "mean_score_prediction": 3.695558652281761
+  },
+  {
+    "image_id": "IMG_4884_",
+    "mean_score_prediction": 2.9385631904006004
+  },
+  {
+    "image_id": "IMG_20190513_210752882_",
+    "mean_score_prediction": 4.893357917666435
+  },
+  {
+    "image_id": "IMG_5424_",
+    "mean_score_prediction": 2.805607555434108
+  },
+  {
+    "image_id": "01_IMG_9832_",
+    "mean_score_prediction": 3.650772523134947
+  },
+  {
+    "image_id": "IMG_8917_",
+    "mean_score_prediction": 4.167476527392864
+  },
+  {
+    "image_id": "IMG_5150_",
+    "mean_score_prediction": 3.3949411287903786
+  },
+  {
+    "image_id": "IMG_5571_",
+    "mean_score_prediction": 3.974954776465893
+  },
+  {
+    "image_id": "IMG_7579_",
+    "mean_score_prediction": 5.626113019883633
+  },
+  {
+    "image_id": "IMG_3049_0_",
+    "mean_score_prediction": 3.5099828243255615
+  },
+  {
+    "image_id": "MG_9166_",
+    "mean_score_prediction": 3.678096942603588
+  },
+  {
+    "image_id": "MG_9180_",
+    "mean_score_prediction": 3.671268291771412
+  },
+  {
+    "image_id": "IMG_8918_",
+    "mean_score_prediction": 4.848342329263687
+  },
+  {
+    "image_id": "IMG_20180201_171046026_",
+    "mean_score_prediction": 4.104301400482655
+  },
+  {
+    "image_id": "IMG_5010_",
+    "mean_score_prediction": 3.307207427918911
+  },
+  {
+    "image_id": "IMG_20200928_164235267_HDR_",
+    "mean_score_prediction": 3.713854793459177
+  },
+  {
+    "image_id": "IMG_6970_",
+    "mean_score_prediction": 5.179994761943817
+  },
+  {
+    "image_id": "IMG_5170_",
+    "mean_score_prediction": 4.834325551986694
+  },
+  {
+    "image_id": "IMG_5572_",
+    "mean_score_prediction": 4.038475748151541
+  },
+  {
+    "image_id": "IMG_8774_",
+    "mean_score_prediction": 3.6681573688983917
+  },
+  {
+    "image_id": "01_IMG_9678_",
+    "mean_score_prediction": 4.56186855584383
+  },
+  {
+    "image_id": "IMG-20151029-WA0005_",
+    "mean_score_prediction": 4.1061016991734505
+  },
+  {
+    "image_id": "IMG_5983_",
+    "mean_score_prediction": 4.73548848181963
+  },
+  {
+    "image_id": "IMG_6819_",
+    "mean_score_prediction": 5.315104492008686
+  },
+  {
+    "image_id": "IMG_8886_",
+    "mean_score_prediction": 2.9494433104991913
+  },
+  {
+    "image_id": "IMG_5557_",
+    "mean_score_prediction": 3.882209636271
+  },
+  {
+    "image_id": "IMG_4291_",
+    "mean_score_prediction": 4.6964897364377975
+  },
+  {
+    "image_id": "IMG_7141_",
+    "mean_score_prediction": 4.822730004787445
+  },
+  {
+    "image_id": "IMG_3867_4_",
+    "mean_score_prediction": 3.1530763506889343
+  },
+  {
+    "image_id": "IMG_6314_",
+    "mean_score_prediction": 4.321195259690285
+  },
+  {
+    "image_id": "IMG_20200209_162238018_",
+    "mean_score_prediction": 5.0123121291399
+  },
+  {
+    "image_id": "IMG_4558_",
+    "mean_score_prediction": 3.6839417181909084
+  },
+  {
+    "image_id": "IMG_7817_",
+    "mean_score_prediction": 4.268433392047882
+  },
+  {
+    "image_id": "IMG_6976_",
+    "mean_score_prediction": 4.821924827992916
+  },
+  {
+    "image_id": "IMG_20180225_180057451_",
+    "mean_score_prediction": 4.077164404094219
+  },
+  {
+    "image_id": "IMG_6838_",
+    "mean_score_prediction": 5.577469289302826
+  },
+  {
+    "image_id": "IMG_4922__",
+    "mean_score_prediction": 4.144656959921122
+  }
+]
