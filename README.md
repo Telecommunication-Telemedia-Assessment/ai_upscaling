@@ -55,7 +55,7 @@ If you use this software or data in your research, please include a link to the 
     pages={1-8},
     volume={},
     month={Dec},
-    code={https://github.com/Telecommunication-Telemedia-Assessment/ai_upscaling}
+    code={https://github.com/Telecommunication-Telemedia-Assessment/ai_upscaling},
     note={to appear},
 }
 ```
