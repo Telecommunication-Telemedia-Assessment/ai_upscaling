@@ -47,12 +47,17 @@ The provided software is tested under Ubuntu 22.04 and 23.10.
 If you use this software or data in your research, please include a link to the repository and reference the following paper.
 
 ```bibtex
-@article{goering2024aiupscaling,
-  title={Appeal prediction for AI up-scaled Images},
-  author={Steve G\"oring and Rasmus Merten and Alexander Raake},
-  note={to appear},
+@inproceedings{goering2024aiupscaling,
+    author = {Steve G\"oring and Rasmus Merten and Alexander Raake},
+    title = {Appeal prediction for AI up-scaled Images},
+    booktitle={26th IEEE International Symposium on Multimedia (2024 IEEE ISM)},
+    year = {2024},
+    pages={1-8},
+    volume={},
+    month={Dec},
+    code={https://github.com/Telecommunication-Telemedia-Assessment/ai_upscaling}
+    note={to appear},
 }
-
 ```
 
 ## License
